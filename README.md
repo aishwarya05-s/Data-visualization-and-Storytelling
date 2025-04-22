@@ -21,4 +21,4 @@ A dashboard was created in PowerBI to gain insights regarding:
 6. Overall average count of customers.
 7. Overall average revenue generated.
    
-   
+## Tool used: PowerBI
