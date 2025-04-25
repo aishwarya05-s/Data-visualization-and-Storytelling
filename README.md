@@ -1,4 +1,6 @@
 # Data-visualization-and-Storytelling
+Storytelling through data visualization
+
 ### Dataset used: Departmental store dataset
 The dataset contains 9 columns out of which relevant columns were used.
 The purpose behind creating this dashboard was to understand and gain insights regarding the departmental store sells.
